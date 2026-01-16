@@ -14,7 +14,7 @@ Looking to practice Fiber concepts hands-on? Check out our [Learning Resources](
 
 ### Installation
 
-First, [download](https://go.dev/dl/) and install Go. Version `1.25` or higher is required.
+First, [download](https://go.dev/dl/) and install Go. Version `1.23` or higher is required.
 
 Install Fiber using the [`go get`](https://pkg.go.dev/cmd/go/#hdr-Add_dependencies_to_current_module_and_install_them) command:
 
